@@ -1,4 +1,4 @@
-package com.audhumla.mservices.user
+package com.mteam.todo.userservice.app
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

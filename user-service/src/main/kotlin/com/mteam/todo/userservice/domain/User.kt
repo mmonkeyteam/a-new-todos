@@ -1,4 +1,4 @@
-package com.audhumla.mservices.user
+package com.mteam.todo.userservice.domain
 
 import javax.persistence.Column
 import javax.persistence.Entity
@@ -6,6 +6,10 @@ import javax.persistence.GeneratedValue
 import javax.persistence.GenerationType
 import javax.persistence.Id
 
+/**
+ * Class representing a user.
+ * It is the entity root of the aggregate.
+ */
 @Entity
 data class User(
 

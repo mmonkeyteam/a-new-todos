@@ -1,4 +1,4 @@
-package com.audhumla.mservices.user
+package com.mteam.todo.userservice.app
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

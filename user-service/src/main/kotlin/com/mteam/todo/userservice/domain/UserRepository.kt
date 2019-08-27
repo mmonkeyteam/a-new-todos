@@ -1,4 +1,4 @@
-package com.audhumla.mservices.user
+package com.mteam.todo.userservice.domain
 
 import org.springframework.data.repository.CrudRepository
 
